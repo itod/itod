@@ -1,6 +1,6 @@
 ## Yo, I'm Todd 👋
 
-Indie Developer | Former Apple, Yahoo!, Rackspace
+Indie Programmer | Former Apple, Yahoo!, Rackspace
 - 📍 🇺🇸
 - 🗣️ ChatGPT told me I'm C1 in 🇩🇪. I choose to believe. // Also learning 🇳🇱🇸🇪.
 - 💻 Cocoa/Objective-C++, Python, Django, JavaScript. // Also a little Java, PHP.
