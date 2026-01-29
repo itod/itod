@@ -16,8 +16,8 @@
 * [Grafik Konsol](https://celestialteapot.com/grafikkonsol/) – Learn to code with graphics
 
 #### iOS Apps
-* [Yahoo! Fantasy Football](https://www.youtube.com/watch?v=YkXXD8cVa7o)
-* [Yahoo! Fantasy Baseball](https://www.youtube.com/watch?v=9QYHKYLMqzU)
+* [Yahoo! Fantasy Football 2009](https://www.youtube.com/watch?v=YkXXD8cVa7o)
+* [Yahoo! Fantasy Baseball 2010](https://www.youtube.com/watch?v=9QYHKYLMqzU)
 
 #### Technology
 * [Panthro](https://github.com/itod/panthro)     – XPath/XQuery 3.0 for Cocoa/ObjC
