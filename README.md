@@ -15,12 +15,16 @@
 * [Pathological](https://pathologicalapp.com) – Search the Finder using XPath
 * [Grafik Konsol](https://celestialteapot.com/grafikkonsol/) – Learn to code with graphics
 
+#### iOS Apps
+* [Yahoo! Fantasy Football](https://www.youtube.com/watch?v=YkXXD8cVa7o)
+* [Yahoo! Fantasy Baseball](https://www.youtube.com/watch?v=9QYHKYLMqzU)
+
 #### Technology
-* [Panthro](https://github.com/itod/panthro) – XPath/XQuery 3.0 engine for Cocoa/ObjC
-* [ParseKit](https://github.com/itod/parsekit) – Tokenizer & Parser Generator for Cocoa/ObjC. Supports Grammars.
-* [PEGKit](https://github.com/itod/pegkit) – 'Parsing Expression Grammar' toolkit for Cocoa/ObjC
-* [TDThreadUtils](https://github.com/itod/threadutils) – Concurrency tools for Cocoa/ObjC
-* [TDTemplateEngine](https://github.com/itod/tdtemplateengine) – Templates for Cocoa/ObjC
+* [Panthro](https://github.com/itod/panthro)     – XPath/XQuery 3.0 engine for Cocoa/ObjC
+* [ParseKit](https://github.com/itod/parsekit)   – Tokenizer & Parser Generator for Cocoa/ObjC. Supports Grammars.
+* [PEGKit](https://github.com/itod/pegkit)   – 'Parsing Expression Grammar' toolkit for Cocoa/ObjC
+* [TDThreadUtils](https://github.com/itod/threadutils)   – Concurrency tools for Cocoa/ObjC
+* [TDTemplateEngine](https://github.com/itod/tdtemplateengine)   – Templates for Cocoa/ObjC
 
 <!--
 **itod/itod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
