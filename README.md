@@ -1,8 +1,9 @@
 ## Yo, I'm Todd 👋
 
 Indie Developer | Former Apple, Yahoo!, Rackspace
-📍 🇺🇸
-🗣️ 🇬🇧🇩🇪 (🌱 🇳🇱🇸🇪)
+- 📍 🇺🇸
+- 🗣️ 🇬🇧🇩🇪 (🌱 🇳🇱🇸🇪)
+- 📫 [mailto:todd.ditchendorf@gmail.com](Email)
 
 #### Mac Apps
 * [Fluid](https://fluidapp.com) – Turn any website into a Mac App
