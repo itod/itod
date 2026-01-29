@@ -1,6 +1,8 @@
 ## Yo, I'm Todd 👋
 
-📍🇺🇸 | Indie Developer | Former Apple, Yahoo!, Rackspace
+Indie Developer | Former Apple, Yahoo!, Rackspace
+📍 🇺🇸
+🗣️ 🇬🇧🇩🇪 (🌱 🇳🇱🇸🇪)
 
 #### Mac Apps
 * [Fluid](https://fluidapp.com) – Turn any website into a Mac App
@@ -19,6 +21,7 @@
 * [Yahoo! Fantasy Football 2009](https://www.youtube.com/watch?v=YkXXD8cVa7o)
 * [Yahoo! Fantasy Baseball 2010](https://www.youtube.com/watch?v=9QYHKYLMqzU)
 
+<!--
 #### Technology
 * [Panthro](https://github.com/itod/panthro)     – XPath/XQuery 3.0 for Cocoa/ObjC
 * [ParseKit](https://github.com/itod/parsekit)   – Tokenizer & Parser Generator for Cocoa/ObjC. Supports Grammars.
@@ -26,7 +29,6 @@
 * [TDThreadUtils](https://github.com/itod/threadutils)   – Concurrency tools for Cocoa/ObjC
 * [TDTemplateEngine](https://github.com/itod/tdtemplateengine)   – Templates for Cocoa/ObjC
 
-<!--
 **itod/itod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
