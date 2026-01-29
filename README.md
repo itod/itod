@@ -9,10 +9,10 @@
 * [Shapes](https://shapesapp.com) – Simple, elegant, native diagrams on Mac
 * [Runway](https://celestialteapot.com/runway/) – UML Editor for Mac
 * [Schwartz](https://celestialteapot.com/schwartz/) – Template-based graphics generation
-* [Pathology](https://pathologyapp.com) – XPath Debugger & Visualizer
-* [Drill](https://drillapp.com) – Create drill for Marching Bands
-* [Mocks](https://mocksapp.com) – Rapidly design iOS Apps
-* [Pathological](https://pathologicalapp.com) – Search the Finder using XPath
+* [Pathology](https://celestialteapot.com/pathology/) – XPath Debugger & Visualizer
+* [Drill](https://celestialteapot.com/drill/) – Create drill for Marching Bands
+* [Mocks](https://celestialteapot.com/mocks/) – Rapidly design iOS Apps
+* [Pathological](https://celestialteapot.com/pathological/) – Search the Finder using XPath
 * [Grafik Konsol](https://celestialteapot.com/grafikkonsol/) – Learn to code with graphics
 
 #### iOS Apps
@@ -20,7 +20,7 @@
 * [Yahoo! Fantasy Baseball](https://www.youtube.com/watch?v=9QYHKYLMqzU)
 
 #### Technology
-* [Panthro](https://github.com/itod/panthro)     – XPath/XQuery 3.0 engine for Cocoa/ObjC
+* [Panthro](https://github.com/itod/panthro)     – XPath/XQuery 3.0 for Cocoa/ObjC
 * [ParseKit](https://github.com/itod/parsekit)   – Tokenizer & Parser Generator for Cocoa/ObjC. Supports Grammars.
 * [PEGKit](https://github.com/itod/pegkit)   – 'Parsing Expression Grammar' toolkit for Cocoa/ObjC
 * [TDThreadUtils](https://github.com/itod/threadutils)   – Concurrency tools for Cocoa/ObjC
