@@ -3,7 +3,7 @@
 Indie Developer | Former Apple, Yahoo!, Rackspace
 - 📍 🇺🇸
 - 🗣️ 🇬🇧🇩🇪 (🌱 🇳🇱🇸🇪)
-- 📫 [mailto:todd.ditchendorf@gmail.com](Email)
+- 📫 [Email](mailto:todd.ditchendorf@gmail.com)
 
 #### Mac Apps
 * [Fluid](https://fluidapp.com) – Turn any website into a Mac App
