@@ -2,7 +2,7 @@
 
 Indie Programmer | Former Apple, Yahoo!, Rackspace
 - 📍 🇺🇸
-- 🗣️ ChatGPT told me I'm C1 in 🇩🇪. I choose to believe. // Also learning 🇳🇱🇸🇪.
+- 🗣️ ChatGPT hat mir gesagt, dass ich auf C1-Niveau in 🇩🇪 sei. I choose to believe. // Also learning 🇳🇱🇸🇪.
 - 💻 Cocoa/Objective-C++, Python, Django, JavaScript. // Also a little Java, PHP.
 
 #### Mac Apps
