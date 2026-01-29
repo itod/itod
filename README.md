@@ -3,6 +3,7 @@
 Indie Developer | Former Apple, Yahoo!, Rackspace
 - 📍 🇺🇸
 - 🗣️ ChatGPT told me I'm C1 in 🇩🇪. I choose to believe. // Also learning 🇳🇱🇸🇪.
+- 💻 Cocoa/Objective-C, Python, Django, JavaScript. Some experience with Java, PHP.
 
 #### Mac Apps
 * [Fluid](https://fluidapp.com) – Turn any website into a Mac App
