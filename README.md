@@ -3,7 +3,7 @@
 Indie Programmer | Former Apple, Yahoo!, Rackspace
 - 📍 🇺🇸
 - 🗣️ ChatGPT told me I'm C1 in 🇩🇪. I choose to believe. // Also learning 🇳🇱🇸🇪.
-- 💻 Cocoa/Objective-C++, Python, Django, JavaScript. // Also a little Java, PHP.
+- 💻 Cocoa/Objective-C++, Python, Django. Also JavaScript 1.5 (I'm in the O'Reilly book!). // Also a little Java, PHP.
 
 #### Mac Apps
 * [Fluid](https://fluidapp.com) – Turn any website into a Mac App
